@@ -1,0 +1,26 @@
+﻿body {
+}
+
+
+.ava-indexbg{
+    background-image: url(../img/Bridge_Vertical.jpg);
+    background-size: cover;
+
+}
+
+.ava-logo{
+    height:60px;
+    width:100%;
+    margin-left:20px;
+    margin-top:20px;
+    background-image:url(../img/ava_tag_color_rgb.gif);
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+
+.ava-gobutton{
+    position:absolute;
+    bottom:100px;
+    width:100%;
+    text-align:center;
+}
