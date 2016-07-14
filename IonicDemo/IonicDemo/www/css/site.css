@@ -11,9 +11,8 @@
 .ava-logo{
     height:60px;
     width:100%;
-    margin-left:25%;
     margin-top:20%;
-    background-image:url(../img/ava_tag_color_rgb.gif);
+    background:url(../img/ava_tag_color_rgb.gif) center top;
     background-size:contain;
     background-repeat:no-repeat;
 }
@@ -22,4 +21,30 @@
     margin-top: 110%;
     width:100%;
     text-align:center;
+}
+
+
+.slider {
+  height: 100%;
+}
+.slider-slide {
+  padding-top: 80px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
 }
